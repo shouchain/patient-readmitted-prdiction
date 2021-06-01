@@ -8,7 +8,7 @@ ranking : 3 / 18
 Data Source : UCI Diabetes 130 US hospitals dataset
 
 1. using Pandas Report doing the EDA
-2. making the data engineer
+2. making the Feature Engineering
 3. use the xgboost with the multi-label prediction
 
 
